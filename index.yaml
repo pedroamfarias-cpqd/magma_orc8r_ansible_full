@@ -113,8 +113,8 @@ entries:
     sources:
     - https://github.com/magma/magma
     urls:
-    - orc8r-1.5.21.tgz
-    version: 1.5.21
+    - orc8r-1.5.22.tgz
+    version: 1.5.22
   wifi-orc8r:
   - apiVersion: v2
     appVersion: "1.0"
