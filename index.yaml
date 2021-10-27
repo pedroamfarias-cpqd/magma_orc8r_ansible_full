@@ -92,7 +92,7 @@ entries:
     - condition: metrics.enabled
       name: metrics
       repository: ""
-      version: 1.4.22
+      version: 1.4.23
     - condition: nms.enabled
       name: nms
       repository: ""
